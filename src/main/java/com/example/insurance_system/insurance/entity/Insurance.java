@@ -1,4 +1,4 @@
-package com.example.insurance.insurance.entity;
+package com.example.insurance_system.insurance.entity;
 
 public class Insurance {
     private Long id;

@@ -1,7 +1,7 @@
-package com.example.insurance.insurance.service;
+package com.example.insurance_system.insurance.service;
 
-import com.example.insurance.insurance.entity.Insurance;
-import com.example.insurance.insurance.repository.InsuranceMapper;
+import com.example.insurance_system.insurance.entity.Insurance;
+import com.example.insurance_system.insurance.repository.InsuranceMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
